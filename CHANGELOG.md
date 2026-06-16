@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-15)
+## Unreleased (2026-06-16)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`6cfefb7`](https://github.com/stdlib-js/stdlib/commit/6cfefb714d4e4468c01c9096eba103ce110082cb) - **docs:** make notes consistent _(by Athan Reines)_
 -   [`198c63d`](https://github.com/stdlib-js/stdlib/commit/198c63df747cbdd94a2cae68c20158ff0414074f) - **fix:** ensure consistent behavior between JavaScript and C [(#12907)](https://github.com/stdlib-js/stdlib/pull/12907) _(by Muhammad Haris)_
 -   [`00c289d`](https://github.com/stdlib-js/stdlib/commit/00c289d300dbdaf3100a80783f3deb909499ff18) - **feat:** add `blas/ext/base/dcuany` [(#12679)](https://github.com/stdlib-js/stdlib/pull/12679) _(by Muhammad Haris, Athan Reines)_
 
